@@ -1,7 +1,7 @@
 # System Thinking Project: Smart communication in transportation
 
 ## Table of Content
-1. [About The Project](#about-the-project)
+[About The Project](#about-the-project)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
